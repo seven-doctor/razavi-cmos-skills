@@ -1,0 +1,49 @@
+{
+  "source_file": "C:\\Users\\15019\\Desktop\\临时资料\\模集skills\\razavi-2015-zh-ocr.pdf",
+  "filename": "razavi-2015-zh-ocr.pdf",
+  "format": "pdf",
+  "extraction_method": "docling",
+  "extraction_mode": "technical",
+  "file_size_mb": 123.64,
+  "pages": 749,
+  "chars": 712403,
+  "words": 145491,
+  "estimated_tokens": 302524,
+  "estimated_tokens_human": "~302K",
+  "images_dropped": 0,
+  "workdir": "C:\\Users\\15019\\AppData\\Local\\Temp\\book_skill_work-47692",
+  "output_text": "C:\\Users\\15019\\AppData\\Local\\Temp\\book_skill_work-47692\\full_text.txt",
+  "total_sources": 1,
+  "sources": [
+    {
+      "source_file": "C:\\Users\\15019\\Desktop\\临时资料\\模集skills\\razavi-2015-zh-ocr.pdf",
+      "filename": "razavi-2015-zh-ocr.pdf",
+      "format": "pdf",
+      "extraction_method": "docling",
+      "file_size_mb": 123.64,
+      "pages": 749,
+      "pages_label": "pages",
+      "chars": 712141,
+      "words": 145485,
+      "estimated_tokens": 302509,
+      "images_dropped": null,
+      "chapters_detected": 8,
+      "chapters_method": "numeric",
+      "has_toc": false
+    }
+  ],
+  "chapters_detected": 8,
+  "chapters_method": "numeric",
+  "chapter_headings_sample": [
+    "CHI 毕查 德。拉扎维 SB",
+    "第 1 章向读者介绍学习本书的意义。",
+    "第 2 章阐述 MOS 器件的 基本物理原理和工作原理。",
+    "第 3 章至第 5 章分别讨论单级和差动 级放大器以 及电流镜。通过观察对基 本电路性能的 量化 建立有 效的 分析工 具 。",
+    "第 14 章和第 15 章集中研究振荡器和锁相环的设计。由 于这些电路的 广泛 应用 ,这 里提供了关于它们性能的详细研究和它们的工作原理的许多实例。",
+    "第 18 章介绍模拟电路和混合信号电路的版图和封装。阐述了许多直接影响 电路性能 的实际问题 ,介绍 了许多解决这些问题的 不同的技术。",
+    "## 第 19 章版图与封装",
+    "第 7 章将会介绍 , 源跟 随器会引入显著的噪声 。因此 ,图 3. 47(b) 所示的电路不 适合于低 噪声应用。",
+    "第 9 章中我们对运放的研究表明 ,这 些电路 通常 包含多个极点。例如 ,在 两级运放中 ,每 个增 益级产生一个 * 主 '极点 。因此 ,研究 其核心放大"
+  ],
+  "has_toc": false
+}

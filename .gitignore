@@ -1,0 +1,14 @@
+# Local source copies are kept outside the published sources/ tree.
+/*.pdf
+/razavi-*-ocr.pdf
+/generate_razavi_skills.py
+/.ocr-tools/
+/OCR_BLOCKER_REPORT.md
+/__pycache__/
+/_regen_test/
+*.py[cod]
+.venv/
+dist/
+build/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,50 @@
+{
+  "source_file": "C:\\Users\\15019\\Desktop\\临时资料\\模集skills\\razavi-2003-solutions-ocr.pdf",
+  "filename": "razavi-2003-solutions-ocr.pdf",
+  "format": "pdf",
+  "extraction_method": "docling",
+  "extraction_mode": "technical",
+  "file_size_mb": 63.16,
+  "pages": 189,
+  "chars": 115491,
+  "words": 20982,
+  "estimated_tokens": 37056,
+  "estimated_tokens_human": "~37K",
+  "images_dropped": 0,
+  "workdir": "C:\\Users\\15019\\AppData\\Local\\Temp\\book_skill_work-47108",
+  "output_text": "C:\\Users\\15019\\AppData\\Local\\Temp\\book_skill_work-47108\\full_text.txt",
+  "total_sources": 1,
+  "sources": [
+    {
+      "source_file": "C:\\Users\\15019\\Desktop\\临时资料\\模集skills\\razavi-2003-solutions-ocr.pdf",
+      "filename": "razavi-2003-solutions-ocr.pdf",
+      "format": "pdf",
+      "extraction_method": "docling",
+      "file_size_mb": 63.16,
+      "pages": 189,
+      "pages_label": "pages",
+      "chars": 115215,
+      "words": 20976,
+      "estimated_tokens": 37041,
+      "images_dropped": null,
+      "chapters_detected": 11,
+      "chapters_method": "numeric",
+      "has_toc": false
+    }
+  ],
+  "chapters_detected": 11,
+  "chapters_method": "numeric",
+  "chapter_headings_sample": [
+    "## 第二章习题 答案",
+    "## 第三章习题 答案",
+    "## 第四 章习 题 答案",
+    "## 第五章习是 答案",
+    "## 第六 章 习 题 答案",
+    "## 第 七 章 习题答案",
+    "## 第八 章习题答案",
+    "## 第九章习题 答案",
+    "## 第十章 习 题 答 案",
+    "## 第 十六 章 习 题 答案"
+  ],
+  "has_toc": false
+}
