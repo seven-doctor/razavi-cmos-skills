@@ -33,7 +33,7 @@
 - `tools/verify_sources.py`：校验 PDF SHA-256、页数和技能目录完整性。
 - `tools/generate_razavi_skills.py`：从提取文本重新生成两套技能。
 
-大 PDF 使用 Git LFS 管理。克隆后如需完整资料，请先安装 Git LFS 并运行 `git lfs pull`。
+大 PDF 的实际文件作为 [v1.0.0 Release 资产](https://github.com/seven-doctor/razavi-cmos-skills/releases/tag/v1.0.0) 提供；仓库中的 `sources/` PDF 文件是用于标识来源的 Git LFS 指针。需要完整资料时，建议直接下载 Release 中的四个 PDF，并按 `sources/source-manifest.json` 中的路径和哈希放置；不要把 Release 资产和仓库中的 LFS 指针混淆。
 
 ## 安装到 Codex
 
